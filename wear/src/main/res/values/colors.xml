@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="config_activity_background">#424242</color>
+    <color name="config_activity_header_text_color">#ffffff</color>
+    <color name="color_item_label_color">#ffffff</color>
+    <color name="color_item_circle_border_color">#ffffff</color>
+
+    <color name="time_date_color">#ffffff</color>
+
+    <color name="sun_color">#ffffff</color>
+
+    <!-- ORANGE GRADIENTS -->
+    <color name="front_orange">#ff0001</color>
+    <color name="sky_light">#ffbd00</color>
+    <color name="sky_dark">#ff0001</color>
+
+    <array name="front_array">
+        <item>@color/front_orange</item>
+        <item>@color/front_orange</item>
+        <item>@color/front_orange</item>
+        <item>#000000</item>
+        <item>#000000</item>
+    </array>
+
+    <array name="sky_array">
+        <item>@color/sky_light</item>
+        <item>@color/sky_light</item>
+        <item>@color/sky_light</item>
+        <item>@color/sky_dark</item>
+        <item>@color/sky_dark</item>
+    </array>
+
+</resources>

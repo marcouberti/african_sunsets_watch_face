@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">African Sunsets</string>
+    <string name="config_activity_title">African Sunsets</string>
+
+    <string name="title_no_device_connected">No wearable device is currently connected.</string>
+    <string name="ok_no_device_connected">OK</string>
+    <string name="sun_animation_mode">Battery saving mode</string>
+    <string name="fluid_motion">Sun as seconds indicator</string>
+    <string name="battery_saving">Sun as hours indicator</string>
+
+    <string name="africa_1_name">Baobab</string>
+    <string name="africa_2_name">Birds</string>
+    <string name="africa_4_name">Buffalo</string>
+    <string name="africa_5_name">Cranes flight</string>
+    <string name="africa_6_name">Elephants</string>
+    <string name="africa_8_name">Lion</string>
+    <string name="africa_9_name">Rhino</string>
+    <string name="africa_10_name">Lemur</string>
+    <string name="africa_11_name">Gorilla</string>
+
+    <string-array name="bitmap_face_array">
+        <item>@string/africa_5_name</item>
+        <item>@string/africa_1_name</item>
+        <item>@string/africa_2_name</item>
+        <item>@string/africa_4_name</item>
+        <item>@string/africa_6_name</item>
+        <item>@string/africa_8_name</item>
+        <item>@string/africa_9_name</item>
+        <item>@string/africa_10_name</item>
+        <item>@string/africa_11_name</item>
+    </string-array>
+</resources>
